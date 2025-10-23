@@ -17,3 +17,11 @@ npm run build
 ## Struktur
 - `docs/` — Skript/Handout in Markdown
 - `slides/` — Marp-Markdown-Folien
+
+## Students
+
+### [Your Name]
+- **GitHub:** [mozie-FH](https://github.com/mozie-FH)
+- **Program:** Master Mechanical Engineering
+- **Interests:** Graphen erstellen,Messdaten sortieren und vorteilhaft darstellen, 3D Visualisierungen
+- **Background:** HTL Vöcklabruck für Maschinen und Anlagenbau, Standard FH Programmierkentnisse

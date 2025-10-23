@@ -8,8 +8,8 @@ footer: "FH OÖ Wels · Visualization & Data Processing (VIS3VO)"
 Master Mechanical Engineering · 3rd Semester
 
 **Lecture 1: Programming Fundamentals & Tools**  
-Instructor: Stefan Oberpeilsteiner
-
+Instructor: Moritz Zierler
+# Name geändert
 ---
 
 ## Today's Agenda
